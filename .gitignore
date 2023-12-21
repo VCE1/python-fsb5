@@ -59,3 +59,4 @@ target/
 # Samples for testing
 samples/
 out/
+*.dll
