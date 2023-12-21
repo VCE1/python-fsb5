@@ -8,7 +8,7 @@ class FSB5ExtractorGUI(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("FSB5解密工具")
-        self.setFixedSize(300,350) # 缩小宽度为原来的一半
+        self.setFixedSize(300,350)
         self.init_ui()
 
     def init_ui(self):
